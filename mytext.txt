@@ -3,8 +3,6 @@ print("first line")
 print("second line")
 print("my latest third line")
 print("push my git")
-<<<<<<< HEAD
 print("pull my most most latest git")
-=======
 print("pull my latest git")
->>>>>>> e9217f90f15b878008f853fcb52aaa12d0b679c7
+print("my sixth line")
