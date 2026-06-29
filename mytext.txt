@@ -5,3 +5,7 @@ print("my latest third line")
 print("push my git")
 print("pull my most most latest git")
 print("pull my latest git")
+<<<<<<< HEAD
+=======
+print("my sixth line")
+>>>>>>> origin/master
