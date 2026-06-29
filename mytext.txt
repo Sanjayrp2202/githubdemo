@@ -2,3 +2,4 @@ import mymodule
 print("first line")
 print("second line")
 print("my latest third line")
+print("push my git")
